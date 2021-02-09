@@ -13,6 +13,6 @@
     <a href="week1.php">Week 1</a>
     <a href="week2.php">Week 2</a>
     <a href="hangman/hangman.php">hangman</a>
-    <a href="klad.php">kladblad</a>
+    <a href="zeeslag/index.php">zeeslag</a>
 </body>
 </html>
