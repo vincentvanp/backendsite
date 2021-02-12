@@ -12,6 +12,7 @@
 <a href="week3/oef2.php">Oefening 2</a>
 <a href="week3/oef3.php">Oefening 3</a>
 <a href="week3/oef4.php">Oefening 4</a>
+<a href="blog/blog.php">Blog</a>
 
 </body>
 </html>
