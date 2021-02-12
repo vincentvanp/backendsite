@@ -1,5 +1,3 @@
-<?php
-?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -10,10 +8,10 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="week1.php">Week 1</a>
-    <a href="week2.php">Week 2</a>
-    <a href="hangman/hangman.php">hangman</a>
-    <a href="zeeslag/index.php">zeeslag</a>
-    <a href="week3.php">Week 3</a>
+<a href="week3/oef1.php">Oefening 1</a>
+<a href="week3/oef2.php">Oefening 2</a>
+<a href="week3/oef3.php">Oefening 3</a>
+<a href="week3/oef4.php">Oefening 4</a>
+
 </body>
 </html>
